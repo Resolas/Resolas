@@ -3,7 +3,13 @@
 
 I am currently working on a little interactive wallpaper as a personal project on unity
 
+
+
 https://resolas.itch.io/
+
+
+Past games before setting up github
+https://resolas.itch.io/shape-dynasty
 
 <!--
 **Resolas/Resolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
