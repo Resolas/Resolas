@@ -1,7 +1,9 @@
 ### Hi there 👋 Profile Work In Progress :I
 
 
-I am currently working on a little interactive wallpaper as a personal project on unity
+<!--I am currently working on a little interactive wallpaper as a personal project on unity -->
+
+I am currently partaking on a gamejam
 
 
 
