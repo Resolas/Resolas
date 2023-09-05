@@ -3,7 +3,7 @@
 
 <!--I am currently working on a little interactive wallpaper as a personal project on unity -->
 
-I am currently partaking on a gamejam
+<!--I am currently partaking on a gamejam -->
 
 
 
